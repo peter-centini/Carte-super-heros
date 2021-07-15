@@ -1,0 +1,37 @@
+.Hero{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.hero-card{
+    display: flex;
+    flex-direction: column;
+    border: solid 2px red;
+    width: 12vw;
+    /* border-radius: 12px; */
+
+}
+
+.hero-img{
+    width: 100%;
+    /* border-radius: 12px; */
+    
+}
+
+.hero-card-content{
+    max-width: 100%;
+    text-align: center;
+    background-color: #042025;
+    color: snow;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    /* border-radius: 12px; */
+}
+
+.filter-bnt{
+    margin: auto;
+    width: 30px;
+    height: 30px;
+    margin-top: 10px;
+}

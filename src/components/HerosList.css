@@ -1,0 +1,24 @@
+.HerosList{
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-bnt{
+    text-align: center;
+    width: 10vw;
+    align-self: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+
+
+.hero-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80vw;
+    justify-content: space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+}
